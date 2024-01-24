@@ -26,4 +26,11 @@ theme:
       primary: teal
       accent: lime
 
+markdown_extensions:
+  - def_list
+
+nav:
+  - 'index.md'
+  - 'step-by-step.md'
+  - 'references.md'
 

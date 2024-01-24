@@ -1,17 +1,14 @@
-# Home
+# Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Problem statement
+You want to create a documentation portal which has a good design, but you want to focus only on the content, not on the design itself.
+Also, you want this documentation portal to be automaticaly updated whenever you commit something to a GitHub repository.
 
-## Commands
+## Solution
+Use [MkDocs](https://www.mkdocs.org) to generate the documentation portal website. Publish the website using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site). Automate the updating with [GitHub Actions](https://docs.github.com/en/actions/quickstart).
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## See the tutorial
+Click on [Step-by-step](./step-by-step.md) to go directly to the tutorial.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Learn more
+Click on [References](./references.md) to access more information about these tools.
