@@ -12,3 +12,7 @@ Click on [Step-by-step](./step-by-step.md) to go directly to the tutorial.
 
 ## Learn more
 Click on [References](./references.md) to access more information about these tools.
+
+## Author
+Silvia Z. Rocha<br>
+[Github: https://github.com/szalbuque](https://github.com/szalbuque)
