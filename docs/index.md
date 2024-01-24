@@ -1,4 +1,4 @@
-# Tutorial for creating a Documentation Portal with MkDocs and GitHub
+# Introduction
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
