@@ -39,7 +39,7 @@ git clone https://github.com/szalbuque/mkdocs-githubpages-docs-automation.git
 ## Create a new MkDocs website
 * In VSCode, open the folder that contains the clone of the GitHub repository you created.
 * Open a new terminal `(Terminal > New Terminal)`.
-* Use the following below to create and activate the Python Virtual Environment (venv):
+* Use the following commands to create and activate the Python Virtual Environment (venv):
 ```
 python -m venv venv
 .\venv\Scripts\activate.ps1
