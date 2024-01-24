@@ -1,5 +1,10 @@
 site_name: Creating a Documentation Portal with MkDocs and GitHub
 theme:
+  icon:
+    admonition:
+      warning: material/alert
+    annotation: material/arrow-right-circle
+  favicon: favicon.png
   name: material
   features:
     - navigation.tabs
@@ -28,6 +33,11 @@ theme:
 
 markdown_extensions:
   - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
 
 nav:
   - 'index.md'
