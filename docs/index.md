@@ -2,7 +2,7 @@
 
 ## Problem Statement
 You want to create a documentation portal that has a good design, but you want to focus only on the content, not on the design itself.
-You also, you want this documentation portal to be  updated automatically whenever you commit something to a GitHub repository.
+You also want this documentation portal to be updated automatically whenever you commit something to a GitHub repository.
 
 ## Solution
 Use [MkDocs](https://www.mkdocs.org) to create the documentation portal website. Publish the website using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site). Automate updates using [GitHub Actions](https://docs.github.com/en/actions/quickstart).
